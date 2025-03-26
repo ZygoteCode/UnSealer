@@ -6,7 +6,7 @@
         xmlns:hc="https://handyorg.github.io/handycontrol"       
         xmlns:local="clr-namespace:UnSealer"
         mc:Ignorable="d"
-        Title="AssemblyKiller • Made by ZioEren" Height="490.909" Width="516.667" ActiveGlowColor="WhiteSmoke" ResizeMode="NoResize" Icon="UnIcon.png" WindowStartupLocation="CenterScreen">
+        Title="AssemblyKiller • Made by ZygoteCode" Height="490.909" Width="516.667" ActiveGlowColor="WhiteSmoke" ResizeMode="NoResize" Icon="UnIcon.png" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="184*"/>
